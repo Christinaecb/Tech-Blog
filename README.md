@@ -19,6 +19,11 @@ The user then can logout and end their session or a timeout exists on the sessio
 
 ## Installation
 
+ Install [`sequelize`](https://www.npmjs.com/package/inquirer), [`figlet`](https://www.npmjs.com/search?q=figlet), [`dotenv`](https://www.npmjs.com/package/dotenv), [`mysql2`](https://www.npmjs.com/package/mysql2), [`handlebars`](https://www.npmjs.com/package/handlebars) and [`express`](https://www.npmjs.com/package/console.table)
+
+```bash
+npm i
+```
 
 ## Usage
 
