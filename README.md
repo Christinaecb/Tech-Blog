@@ -27,6 +27,13 @@ npm i
 
 ## Usage
 
+Create a .env file in the root directory and add your MySQL username, password, and database name in the following format:
+
+``
+DB_NAME='your_database_name'
+DB_USER='your_mysql_username'
+DB_PW='your_mysql_password'
+``
 
 ## License
 
