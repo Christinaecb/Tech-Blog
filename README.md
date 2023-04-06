@@ -29,7 +29,11 @@ npm i
 
 Create a .env file in the root directory and add your MySQL username, password, and database name in the following format:
 
-
+``
+DB_NAME='you_database_name'
+DB_USER= 'your_mysql_username'
+DB_PW='your_mysqpl_password'
+``
 
 ## License
 
