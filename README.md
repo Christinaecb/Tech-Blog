@@ -54,3 +54,5 @@ There are currently no tests for this application.
 [GitHub Profile](https://github.com/Christinaecb)
 
 Email -- christina.e.c.barberi@gmail.com
+
+I welcome feedback and suggestions for this project. If you have ideas for how to improve the project, please feel free to contact me directly. Your input is greatly appreciated!
