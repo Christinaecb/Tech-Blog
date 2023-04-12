@@ -43,7 +43,7 @@ Source link for [MIT](https://opensource.org/licenses/MIT)
 
 ## Contributors
 
-Christina Barberi.
+Christina Barberi
 
 ## Tests
 
