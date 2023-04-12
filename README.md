@@ -10,12 +10,17 @@ The user then can logout and end their session or a timeout exists on the sessio
 
 ## Table of Contents
 - [Description](#description)
+- [Screenshot](#screenshot)
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributors](#contributors)
 - [Tests](#tests)
+- [Heroku](#heroku)
 - [Contact](#contact)
+
+## Screenshot
+![Screenshot](./public/images/Screenshot.png)
 
 ## Installation
 
@@ -47,7 +52,11 @@ Christina Barberi.
 
 ## Tests
 
-There are currently no tests for this application.  
+There are currently no tests for this application. 
+
+## Heroku
+
+https://christinas-tech-blog.herokuapp.com/ 
 
 ## Contact
 
